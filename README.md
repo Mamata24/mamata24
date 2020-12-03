@@ -39,9 +39,7 @@ Looking forward for opportunities to impart my skills, learn and escalate profes
  </p>
 
 <h3 align="center">PORTFOLIO</h3>
-<p align="center"
-<a href="https://mamata24.github.io/Portfolio/" target="blank"><img align="center" src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" alt="portfolio" height="80" width="180" /></a>
-</p>
+<a align="center" href="https://jovial-noyce-3d211d.netlify.app/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 
 <h2 align="center">GITHUB STATS</h2> 
   <p align='center'>
