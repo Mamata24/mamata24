@@ -39,7 +39,8 @@ Looking forward for opportunities to impart my skills, learn and escalate profes
  </p>
 
 <h3 align="center">PORTFOLIO</h3>
-<a align="center" href="https://jovial-noyce-3d211d.netlify.app/"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<h3 align="center">
+<a align="center" href="https://jovial-noyce-3d211d.netlify.app/"><img src="https://library.kissclipart.com/20180902/iaw/kissclipart-my-portfolio-clipart-portfolio-personal-finance-30a91ae245efe019.jpg" alt="portfolio" width="40" height="40"/></a></h3>
 
 <h2 align="center">GITHUB STATS</h2> 
   <p align='center'>
