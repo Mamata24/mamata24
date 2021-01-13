@@ -40,7 +40,7 @@ Looking forward for opportunities to impart my skills, learn and escalate profes
 
 <h3 align="center">PORTFOLIO</h3>
 <h3 align="center">
-<a align="center" href="https://jovial-noyce-3d211d.netlify.app/"><img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" alt="portfolio" width="150" height="80"/></a></h3>
+<a align="center" href="https://wizardly-meitner-b8a086.netlify.app/"><img src="https://www.seekpng.com/png/detail/111-1112824_picture-my-portfolio-logo-png.png" alt="portfolio" width="150" height="80"/></a></h3>
 
 <h2 align="center">GITHUB STATS</h2> 
   <p align='center'>
